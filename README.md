@@ -1,7 +1,7 @@
-# amx-a　仕様
+# amx-a 仕様
 
 ## 名称について
-amx-a　は、アダプト地図XMLプロジェクト（Adopt Map XML project; amx-project）のベクトルタイル　a　を意味することとします。
+amx-a　は、アダプト地図XMLプロジェクト（Adopt Map XML project; amx-project）のベクトルタイル a を意味することとします。
 
 ## amx-a の目的
 - 法務省がG空間情報センターを通じて公開する地図XMLをウェブ地図上でスマートに表示する方法を実証すること。
