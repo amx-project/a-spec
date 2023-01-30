@@ -1,13 +1,13 @@
-# amx-a 仕様
+# amx-a　仕様
 
 ## 名称について
-amx-a は、アダプト地図XMLプロジェクト（Adopt Map XML project; amx-project）のベクトルタイル　a　を意味することとします。
+amx-a　は、アダプト地図XMLプロジェクト（Adopt Map XML project; amx-project）のベクトルタイル　a　を意味することとします。
 
 ## amx-a の目的
 - 法務省がG空間情報センターを通じて公開する地図XMLをウェブ地図上でスマートに表示する方法を実証すること。
 
 ## amx-a の性格
-- [PMTiles](https://github.com/protomaps/PMTiles) 形式で配布
+- [PMTiles](https://github.com/protomaps/PMTiles)　形式で配布
 - オープンソースソフトウェアで構築
 
 ## デモサイト
@@ -22,7 +22,7 @@ amx-a は、アダプト地図XMLプロジェクト（Adopt Map XML project; amx
 
 ## ベクトルタイル設計情報
 ### daihyo
-地図XMLデータがある位置を小縮尺でも把握できるようにするための代表点レイヤです。Tippecanoe の機能により間引きます。
+地図XMLデータがある位置を小縮尺でも把握できるようにするための代表点レイヤです。Tippecanoe　の機能により間引きます。
 #### ズームレベル範囲
 2-13
 
@@ -33,7 +33,7 @@ amx-a は、アダプト地図XMLプロジェクト（Adopt Map XML project; amx
 https://github.com/amx-project/a/blob/main/daihyo.rb
 
 ### fude
-地図XMLデータそのものを可能な限り生かしたレイヤです。Tippecanoe によるデータの間引きを行っていません。
+地図XMLデータそのものを可能な限り生かしたレイヤです。Tippecanoe　によるデータの間引きを行っていません。
 #### ズームレベル範囲
 14-16
 
