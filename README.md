@@ -7,11 +7,12 @@ amx-a　は、アダプト地図XMLプロジェクト（Adopt Map XML project; a
 - 法務省がG空間情報センターを通じて公開する地図XMLをウェブ地図上でスマートに表示する方法を実証すること。
 
 ## amx-a の性格
-- [PMTiles](https://github.com/protomaps/PMTiles)　形式で配布
+- [PMTiles](https://github.com/protomaps/PMTiles) 形式で配布
 - オープンソースソフトウェアで構築
 
 ## デモサイト
-- https://amx-project.github.io/a
+- https://amx-project.github.io/a (w/ UNVT Portable)
+- https://amx-project.github.io/a/habs.html (w/ habs mirror)
 - https://protomaps.github.io/PMTiles/?url=https%3A%2F%2Fx.optgeo.org%2Fa.pmtiles
 
 ## データ配布
