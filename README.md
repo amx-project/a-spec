@@ -21,6 +21,11 @@ amx-a　は、アダプト地図XMLプロジェクト（Adopt Map XML project; a
 
 ミラーいただき感謝します。
 
+### 惑星間ファイルシステム
+- CID `QmVr46kE356XpNdHhLfT8tqZREH6BxWuN9TFmfiqi2FBBK`　(2023-02-01T22:31+09:00)
+
+https://amx-project.github.io/a/ipfs.html では `pmtiles://https://x.optgeo.org/ipfs/QmVr46kE356XpNdHhLfT8tqZREH6BxWuN9TFmfiqi2FBBK` と参照しています。
+
 ## ベクトルタイル設計情報
 ### daihyo
 地図XMLデータがある位置を小縮尺でも把握できるようにするための代表点レイヤです。Tippecanoe　の機能により間引きます。
