@@ -17,7 +17,7 @@ amx-a　は、アダプト地図XMLプロジェクト（Adopt Map XML project; a
 
 ## データ配布
 - <strike>`https://x.optgeo.org/a.pmtiles`</strike> ← 廃止。2023-03-01 に削除します。
-- `https://x.optgeo.org/ipfs/QmVr46kE356XpNdHhLfT8tqZREH6BxWuN9TFmfiqi2FBBK`
+- <strike>`https://x.optgeo.org/ipfs/QmVr46kE356XpNdHhLfT8tqZREH6BxWuN9TFmfiqi2FBBK`</strike> (2023-02-01T22:31+09:00)
 - `https://habs.rad.naro.go.jp/spatial_data/amx/a.pmtiles`
 
 ミラーいただき感謝します。
@@ -28,7 +28,8 @@ curl -o a.pmtiles https://x.optgeo.org/ipfs/QmVr46kE356XpNdHhLfT8tqZREH6BxWuN9TF
 ```
 
 ### 惑星間ファイルシステム
-- CID `QmVr46kE356XpNdHhLfT8tqZREH6BxWuN9TFmfiqi2FBBK`　(2023-02-01T22:31+09:00)
+- <strike>CID `QmVr46kE356XpNdHhLfT8tqZREH6BxWuN9TFmfiqi2FBBK`</strike>　(2023-02-01T22:31+09:00)
+- CID ``　(2023-02-09Txx:xx+09:00)
 
 ## ベクトルタイル設計情報
 ### daihyo
