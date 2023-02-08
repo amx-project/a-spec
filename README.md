@@ -24,12 +24,12 @@ amx-a　は、アダプト地図XMLプロジェクト（Adopt Map XML project; a
 
 ### おすすめのダウンロード方法
 ```zsh
-curl -o a.pmtiles https://x.optgeo.org/ipfs/QmVr46kE356XpNdHhLfT8tqZREH6BxWuN9TFmfiqi2FBBK
+curl -o a.pmtiles https://x.optgeo.org/ipfs/QmTZHWMAnRC5zNiNvdVuTDacThKkj4jKbwsZtKQkAC4R69
 ```
 
 ### 惑星間ファイルシステム
 - <strike>CID `QmVr46kE356XpNdHhLfT8tqZREH6BxWuN9TFmfiqi2FBBK`</strike>　(2023-02-01T22:31+09:00)
-- CID ``　(2023-02-09Txx:xx+09:00)
+- CID `QmTZHWMAnRC5zNiNvdVuTDacThKkj4jKbwsZtKQkAC4R69`　(2023-02-09T05:47+09:00)
 
 ## ベクトルタイル設計情報
 ### daihyo
@@ -78,3 +78,4 @@ https://github.com/amx-project/a/blob/main/fude.rb
 
 ## ChangeLog
 - 2023-01-31: 作成
+- 2023-02-09: データ更新に伴い更新
