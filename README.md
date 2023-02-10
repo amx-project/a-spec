@@ -24,7 +24,7 @@ amx-a　は、アダプト地図XMLプロジェクト（Adopt Map XML project; a
 
 ### おすすめのダウンロード方法
 ```zsh
-curl -o a.pmtiles https://x.optgeo.org/ipfs/QmTZHWMAnRC5zNiNvdVuTDacThKkj4jKbwsZtKQkAC4R69
+curl -o a.pmtiles "https://x.optgeo.org/ipfs/QmTZHWMAnRC5zNiNvdVuTDacThKkj4jKbwsZtKQkAC4R69"
 ```
 
 ### 惑星間ファイルシステム
