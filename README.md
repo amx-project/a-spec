@@ -18,6 +18,7 @@ amx-a　は、アダプト地図XMLプロジェクト（Adopt Map XML project; a
 ## データ配布
 - <strike>`https://x.optgeo.org/a.pmtiles`</strike> ← 廃止。2023-03-01 に削除します。
 - <strike>`https://x.optgeo.org/ipfs/QmVr46kE356XpNdHhLfT8tqZREH6BxWuN9TFmfiqi2FBBK`</strike> (2023-02-01T22:31+09:00)
+- `https://x.optgeo.org/ipfs/QmTZHWMAnRC5zNiNvdVuTDacThKkj4jKbwsZtKQkAC4R69` (2023-02-09T05:47+09:00)
 - `https://habs.rad.naro.go.jp/spatial_data/amx/a.pmtiles`
 
 ミラーいただき感謝します。
