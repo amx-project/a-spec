@@ -19,8 +19,9 @@ amx-a　は、アダプト地図XMLプロジェクト（Adopt Map XML project; a
 - <strike>`https://x.optgeo.org/a.pmtiles`</strike> ← 廃止。2023-03-01 に削除します。
 - <strike>`https://x.optgeo.org/ipfs/QmVr46kE356XpNdHhLfT8tqZREH6BxWuN9TFmfiqi2FBBK`</strike> (2023-02-01T22:31+09:00)
 - <strike>`https://x.optgeo.org/ipfs/QmTZHWMAnRC5zNiNvdVuTDacThKkj4jKbwsZtKQkAC4R69` (2023-02-09T05:47+09:00)</strike>
-- `https://ipio.nchc.org.tw/ipfs/QmTZHWMAnRC5zNiNvdVuTDacThKkj4jKbwsZtKQkAC4R69`
+- <strike>`https://ipio.nchc.org.tw/ipfs/QmTZHWMAnRC5zNiNvdVuTDacThKkj4jKbwsZtKQkAC4R69`</strike> 2025-05 現在、機能していません。
 - `https://habs.rad.naro.go.jp/spatial_data/amx/a.pmtiles`
+- `https://source.coop/smartmaps/amx-2024-04/MojMap_amx_2024.pmtiles` ← 2024年版です。2025-05 追記
 
 ミラーいただき感謝します。
 
